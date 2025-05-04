@@ -250,7 +250,7 @@ test_pred = model.predict(X_test)
 
 - The feature importance extracted from the model.
 
-![feature_importance](assets\feature_importance.png)
+![feature_importance](assets/feature_importance.png)
 
 ## Future Improvement
 
